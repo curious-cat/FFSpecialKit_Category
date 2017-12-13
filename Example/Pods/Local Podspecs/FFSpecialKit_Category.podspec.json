@@ -1,0 +1,30 @@
+{
+  "name": "FFSpecialKit_Category",
+  "version": "2.5",
+  "summary": "通信组件",
+  "description": "TODO: 通信组件",
+  "homepage": "https://github.com/curious-cat/FFSpecialKit_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "842373586@qq.com": "842373586@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/curious-cat/FFSpecialKit_Category.git",
+    "tag": "2.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFSpecialKit_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ],
+    "FFAPIsKit": [
+
+    ]
+  }
+}
